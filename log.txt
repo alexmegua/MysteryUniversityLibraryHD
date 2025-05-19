@@ -1,0 +1,832 @@
+2025-05-19 23:17:49 UTC
+Windows-10-10.0.22631
+Ren'Py 8.3.4.24120703
+
+Early init took 0.04s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.02s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.14s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2434, 1369) drawable=(2434, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 95.73s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 260.68s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 278.95s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 378.79s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.14s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 416.68s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 436.49s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.14s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 442.61s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 479.14s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.14s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 485.31s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 493.03s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.14s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 509.76s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 512.92s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 762.68s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 965.02s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 975.66s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1051.39s
+Loading error handling took 0.01s
+Loading script took 0.14s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/screens.rpy", line 238: screen expects a non-empty block.
+    screen quick_menu():
+                        ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.18s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1059.00s
+Loading error handling took 0.01s
+Loading script took 0.15s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\user\\AppData\\Roaming/RenPy/backups\\MysteryUniversityLibraryHD':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.13s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.36'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
+controller: '030000006d0400001fc2000000007200' 'Controller (Wireless Gamepad F710)' 1
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1369) drawable=(2560, 1369)
+Maximum texture size: 4096x4096
