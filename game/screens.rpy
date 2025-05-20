@@ -230,10 +230,6 @@ style choice_button_text is default:
     properties gui.text_properties("choice_button")
 
 
-## Екран швидкого меню #########################################################
-##
-## Швидке меню показується у грі, щоб забезпечити легкий доступ до меню поза
-## грою.
 
 screen quick_menu():
 
